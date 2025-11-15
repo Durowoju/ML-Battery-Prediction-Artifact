@@ -1,10 +1,14 @@
 <p align="center">
   <img src="./banner.png" width="900" alt="Durowoju Emmanuel – ML-Battery-Prediction-Artifact">
 </p>
-# ML-Battery-Prediction-Artifact
-ML Progress Artifact
-# Machine Learning-Based Prediction of Solid-State Lithium Battery Performance  
-### Artifact 2 – Professional Portfolio
+
+<h1 align="center">ML Battery Prediction Artifact</h1>
+
+<h3 align="center">Machine Learning-Based Prediction of Solid-State Lithium Battery Performance</h3>
+
+<p align="center"><b>Artifact 2 – Professional Portfolio Submission</b></p>
+
+---
 
 ## 📌 About Me
 My name is **Emmanuel Durowoju**, and I am currently studying **Artificial Intelligence – Data Analytics**.  
