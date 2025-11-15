@@ -84,6 +84,7 @@ This validation plot demonstrates the performance of both models on unseen data.
 4. Random Forest vs Gradient Boosting — Impedance Prediction at 35°C
 
 At elevated temperature (35°C), the impedance curve shape shifts, and the models respond differently. This plot illustrates model robustness across temperature conditions.
+
 ![RF vs LSTM Validation](./figures/Picture4.png)
 
 5. Additional Visualizations (Optional)
