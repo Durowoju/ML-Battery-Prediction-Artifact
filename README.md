@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./banner.png" width="900" alt="Durowoju Emmanuel – ML-Battery-Prediction-Artifact">
+</p>
 # ML-Battery-Prediction-Artifact
 ML Progress Artifact
 # Machine Learning-Based Prediction of Solid-State Lithium Battery Performance  
