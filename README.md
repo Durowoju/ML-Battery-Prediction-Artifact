@@ -9,6 +9,12 @@
 <p align="center"><b>Artifact 2 – Professional Portfolio Submission</b></p>
 
 ---
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10-blue.svg">
+  <img src="https://img.shields.io/badge/ML-Regression%20Models-green.svg">
+  <img src="https://img.shields.io/badge/Data-Scientific%20Computing-orange.svg">
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen.svg">
+</p>
 
 ## 📌 About Me
 My name is **Emmanuel Durowoju**, and I am currently studying **Artificial Intelligence – Data Analytics**.  
