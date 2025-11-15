@@ -65,6 +65,32 @@ I selected this artifact because it demonstrates my ability to apply machine lea
 - `data/` – Sample structured datasets  
 - `README.md` – Project overview (this file)  
 
+## 📊 Key Model Results and Figures  
+1. Random Forest vs Gradient Boosting — Impedance Prediction at 25°C
+
+This figure shows how Random Forest and Gradient Boosting regression models predict the imaginary impedance component (Z1(b)) from the real component (Z1(a)). The intersection with the x-axis is used to estimate ionic conductivity.
+![RF vs GB 25C](./figures/Picture1.png)
+
+2. Random Forest vs LSTM — Training & Testing Performance
+
+This comparison evaluates how well Random Forest and LSTM models learn ionic conductivity trends using non-impedance features. The closer the predicted curve is to the actual values, the better the model generalizes.
+![RF vs LSTM Train Test](./figures/figures/Picture2.png)
+
+3. Random Forest vs LSTM — Validation Results
+
+This validation plot demonstrates the performance of both models on unseen data. The Random Forest typically produces more stable predictions with lower RMSE, while the LSTM sometimes fluctuates more due to the small dataset size.
+![RF vs LSTM Validation](./figures/Picture3.png)
+
+4. Random Forest vs Gradient Boosting — Impedance Prediction at 35°C
+
+At elevated temperature (35°C), the impedance curve shape shifts, and the models respond differently. This plot illustrates model robustness across temperature conditions.
+![RF vs LSTM Validation](./figures/Picture4.png)
+
+5. Additional Visualizations (Optional)
+
+If you uploaded more plots (e.g., model residuals, ionic conductivity comparisons), you can follow the same pattern:
+![Additional Figure](./figures/Picture5.png)
+
 ---
 
 ## 📄 License
