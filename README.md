@@ -74,7 +74,7 @@ This figure shows how Random Forest and Gradient Boosting regression models pred
 2. Random Forest vs LSTM — Training & Testing Performance
 
 This comparison evaluates how well Random Forest and LSTM models learn ionic conductivity trends using non-impedance features. The closer the predicted curve is to the actual values, the better the model generalizes.
-![RF vs LSTM Train Test](./figures/figures/Picture2.png)
+![RF vs LSTM Train Test](./figures/Picture2.png)
 
 3. Random Forest vs LSTM — Validation Results
 
